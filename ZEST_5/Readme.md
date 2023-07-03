@@ -13,7 +13,7 @@
 
 ## Podstawowe Informacje
 Program rysuje figury geometryczne w ukladzie kartezjanskim N x N oraz na podstawie polozenia punkty swiatla rysuje ich cien .
-- Rodzaje figur do narysowania przez program oraz ich parametry podaje się w zalaczonym pliku konfiguracyjnym config.json .
+- Rodzaje figur do narysowania przez program oraz ich parametry, podaje się w zalaczonym pliku konfiguracyjnym config.json .
 
 Paramatry figur: 
 - polozenie lewego dolnego wierzcholka w przypadku prosokatow, srodka kola w przypadku kola, 
