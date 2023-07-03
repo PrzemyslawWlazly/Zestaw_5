@@ -40,15 +40,25 @@ Kompilacja bezposrednio poprzez g++ :
 ... 
 
 g++ -std=c++11 -c pliki_cpp/biblioteka_funkcji.cpp -o pliki_obiektowe/biblioteka_funkcji.o -Ipliki_h
+
 g++ -std=c++11 -c pliki_cpp/Trojkat.cpp -o pliki_obiektowe/Trojkat.o -Ipliki_h
+
 g++ -std=c++11 -c pliki_cpp/Punkt.cpp -o pliki_obiektowe/Punkt.o -Ipliki_h
+
 g++ -std=c++11 -c pliki_cpp/Prosta_Pionowa.cpp -o pliki_obiektowe/Prosta_Pionowa.o -Ipliki_h
+
 g++ -std=c++11 -c pliki_cpp/Kwadrat.cpp -o pliki_obiektowe/Kwadrat.o -Ipliki_h
+
 g++ -std=c++11 -c pliki_cpp/Light.cpp -o pliki_obiektowe/Light.o -Ipliki_h
+
 g++ -std=c++11 -c pliki_cpp/Canvas.cpp -o pliki_obiektowe/Canvas.o -Ipliki_h
+
 g++ -std=c++11 -c pliki_cpp/ASCIICanvas.cpp -o pliki_obiektowe/ASCIICanvas.o -Ipliki_h
+
 g++ -std=c++11 -c pliki_cpp/Prosta.cpp -o pliki_obiektowe/Prosta.o -Ipliki_h
+
 g++ -std=c++11 -c pliki_cpp/Prostokat.cpp -o pliki_obiektowe/Prostokat.o -Ipliki_h
+
 g++ -std=c++11 pliki_obiektowe/biblioteka_funkcji.o pliki_obiektowe/Trojkat.o pliki_obiektowe/Punkt.o pliki_obiektowe/Prosta_Pionowa.o pliki_obiektowe/Kwadrat.o pliki_obiektowe/Light.o pliki_obiektowe/Canvas.o pliki_obiektowe/ASCIICanvas.o pliki_obiektowe/Prosta.o pliki_obiektowe/Prostokat.o main.cpp -o ASCIIrenderer
 
 ... 
