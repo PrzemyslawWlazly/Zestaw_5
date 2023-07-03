@@ -52,7 +52,7 @@ char sym_swiatla;
 int P_swiatla_x ;
 int P_swiatla_y ;
 
-
+string nazwa_pliku_wyjsciowego = j["nazwa_pliku_wyjsciowego"];
 szerokosc_okna = j["szerokosc_okna"];
 wysokosc_okna = j["wysokosc_okna"];
 liczba_figur = j["liczba_figur_do_narysowania"];
@@ -137,7 +137,7 @@ for (const auto& trojkat : tablica_trojkatow)
 
 S->rysuj_punkt(*Ekran);
 Ekran->odwroc_ascii_canvas();
-Ekran->wyswietl_sie("plik.ascii");
+Ekran->wyswietl_sie(nazwa_pliku_wyjsciowego);
 
 
 }
