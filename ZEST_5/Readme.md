@@ -25,7 +25,7 @@ Paramatry figur:
 ## Mozliwosci programu
 Program jest w stanie narysowac prostokat ( w tym kwadrat ) oraz trojkat.
 Na podstawie polozenia punktu swiatla, program wyznacza cien figur.
-W przypadku polozenia punktu swiatla "na figurze", program uznaje, ze swiatlo swieci nad figura i jest ona oswietlona (nie rzuca cienia).
+W przypadku polozenia punktu swiatla "na figurze", program uznaje, ze swiatlo swieci nad konkretna figura i jest ona oswietlona (nie rzuca ona cienia).
 
 
 ## Screenshots
