@@ -1,0 +1,55 @@
+|==============================================================================|
+|......                                                                        |
+|........                                                                      |
+|..........                                                                    |
+|............                                                                  |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                    *                                           |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|....FFFFFFFFFF                                                                |
+|...........                                           FFFFFFFFFF              |
+|......                                                FFFFFFFFFF........      |
+|                                                      FFFFFFFFFF..............|
+|                                                      FFFFFFFFFF..............|
+|                                                      FFFFFFFFFF..............|
+| .FFFFFFFFFF                                          FFFFFFFFFF..............|
+|...FFFFFFFF                                           FFFFFFFFFF..............|
+|...FFFFFFFF                                           FFFFFFFFFF..............|
+|...FFFFFFF                                            FFFFFFFFFF..............|
+|....FFFFFF                                            FFFFFFFFFF..............|
+|....FFFFFF                                             .......................|
+|....FFFFF                                                .....................|
+|....FFFFF                                                 ....................|
+|.....FFFF                                                   ..................|
+|.....FFF                                                     .................|
+|.....FFF                        FFFFF                         ................|
+|......FF                        .FFF.                           ..............|
+|......F                         .FFF.                            .............|
+|......F                         ..F..                              ...........|
+|......F                         ..F..                               ..........|
+|.......                         .....                                 ........|
+|......                          .....                                  .......|
+|.....                           .....                                   ......|
+|....                            .....                                     ....|
+|..                              .....                                      ...|
+|.                              .......      FFFFFFFF                         .|
+|                               .......      FFFFFFFF                          |
+|                               .......      FFFFFFFF.                         |
+|                               .......      FFFFFFFF.                         |
+|                               .......      FFFFFFFF..                        |
+|                               .......      FFFFFFFF...                       |
+|                               .......      FFFFFFFF...                       |
+|                               .......      FFFFFFFF....                      |
+|                               .......      FFFFFFFF....                      |
+|============================================FFFFFFFF==========================|
