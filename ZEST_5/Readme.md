@@ -12,7 +12,7 @@
 
 
 ## Podstawowe Informacje
-Program rysuje figury geometryczne w ukladzie kartezjanskim N x N oraz na podstawie polozenia punkty swiatla rysuje ich cien .
+Program rysuje figury geometryczne w ukladzie kartezjanskim N x N oraz na podstawie polozenia punktu swiatla rysuje ich cien .
 - Rodzaje figur do narysowania przez program oraz ich parametry, podaje się w zalaczonym pliku konfiguracyjnym config.json .
 
 Paramatry figur: 
