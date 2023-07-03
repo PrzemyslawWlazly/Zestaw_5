@@ -2,7 +2,7 @@
 > Program tworzy obrazki figur geometrycznych, w formie plikow ASCII
 
 
-## Table of Contents
+## Spis tresci
 * [Podstawowe Informacje](#podstawowe-informacje)
 * [Mozliwosci programu](#mozliwosci-programu)
 * [Screenshots](#screenshots)
