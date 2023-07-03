@@ -96,7 +96,7 @@ $ ./ASCIIrenderer config.json
 
 
 Plik konfiguracyjny jest intuicyjny.
-W pliku konfiguracyjnym w tablicy kazdej z figur mozna dopisac dowolna ilosc kwadratow/prostokatow/trojkatow.
+W pliku konfiguracyjnym w intuicyjne napisanej tablicy kazdej z figur, mozna dopisac dowolna ilosc kwadratow/prostokatow/trojkatow.
 Nalezy przy tym pamietac o polozeniu przecinkow w odpowiednich miejscach.
 
 
