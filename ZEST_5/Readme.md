@@ -87,7 +87,7 @@ $ ./ASCIIrenderer config.json
 ## Uzywanie programu
 
 
-Nalezy podac nazwe programu wykonywalnego i jako argument wywolania programu, nazwe pliku konfiguracyjnego.
+Nalezy podac nazwe programu wykonywalnego i jako argument wywolania programu - nazwe pliku konfiguracyjnego.
 Plik konfiguracyjny jest intuicyjny.
 W pliku konfiguracyjnym w intuicyjne napisanej tablicy kazdej z figur, mozna dopisac dowolna ilosc kwadratow/prostokatow/trojkatow.
 Nalezy przy tym pamietac o polozeniu przecinkow w odpowiednich miejscach.
