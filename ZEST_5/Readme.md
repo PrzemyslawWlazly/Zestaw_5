@@ -66,7 +66,7 @@ g++ -std=c++11 pliki_obiektowe/biblioteka_funkcji.o pliki_obiektowe/Trojkat.o pl
 Powstaje plik wykonywalny o nazwie ASCIIrenderer
 
 Do projektu zostal dolaczony plik Makefile. 
-kompilacja za pośrednictwem programu make :
+Kompilacja za pośrednictwem programu make :
 
 ...
 
