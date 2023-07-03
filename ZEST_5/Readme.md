@@ -21,6 +21,8 @@ Paramatry figur:
 - Polozenie punktu swiatla.
 - Symbole: tla, czesci zajmowanej w ukladzie przez figury, czesci zajmowanej przez cien.
 
+  Na potrzeby projektu zasymulowano przestrzen dwuwymiarową. W osobnych klasach stworzono obiekty takie jak prosta, czy punkt. Stworzono funkcje do wyznaczania wspolczynnikow dla rownania prostej w przestrzeni dwuwymiarowej. Przeladowano operatory porownania na rzecz porownania polozenia punktu wzgledem prostej.
+![Example screenshot_1](./obrazy_do_pliku_Readme/Figura.png)
 
 ## Mozliwosci programu
 Program jest w stanie narysowac prostokat ( w tym kwadrat ) oraz trojkat.
