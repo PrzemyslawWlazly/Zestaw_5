@@ -27,7 +27,7 @@ Program jest w stanie narysowac prostokat ( w tym kwadrat ) oraz trojkat.
 
 
 ## Screenshots
-![Example screenshot](./zdjecia_do_pliku_Readme/Obraz_1.png)
+![Example screenshot](./obrazy_do_pliku_Readme/Obraz_1.png)
 
 
 ## Kompilacja i uruchamianie
